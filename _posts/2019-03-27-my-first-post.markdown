@@ -1,5 +1,6 @@
 ---
 layout: post
+mathjax: true
 title:  "First post"
 date:   2019-03-27 21:01:34 -0400
 categories: blog math
