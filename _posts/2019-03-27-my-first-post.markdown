@@ -10,11 +10,6 @@ Hey, I'm Steven. I'm not complete sure about what I'm going to do with this
 blog, but I need to practice writing, and this seems like a perfect
 opportunity to do that.
 
-```python
-def hello():
-    print("hello")
-```
-
 You can find my GitHub page [here][github]. I'm currently working through
 Erwin Kreyszig's Introductory Functional Analysis.
 
