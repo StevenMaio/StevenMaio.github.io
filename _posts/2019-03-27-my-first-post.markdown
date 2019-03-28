@@ -5,8 +5,6 @@ date:   2019-03-27 21:01:34 -0400
 categories: blog math
 ---
 
-{% include mathjax_support.html %}
-
 Hey, I'm Steven. I'm not complete sure about what I'm going to do with this
 blog, but I need to practice writing, and this seems like a perfect
 opportunity to do that.
