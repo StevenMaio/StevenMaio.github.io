@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm an undergraduate student at Stony Brook University. I'm double majoring in
+Mathematics and Comptuer Science. At the moment I'm interning with SRC in
+Syracuse, NY.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My interests include Mathematics, Computers, Video Games, Music, German, and
+Chinese (to an extent). I'm also a fan of hiking, running, and lifting, but
+I have had to take a break due to an injury from the latter.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+My GitHub page can be found on the bottom, if you're interested in looking
+at my projects.
 
 
-[jekyll-organization]: https://github.com/jekyll
+[my-github]: https://github.com/StevenMaio
