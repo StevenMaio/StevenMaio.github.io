@@ -12,6 +12,10 @@ like opening files, maybe web sockets, reading from .csv files.
 ### Road Map
 
 1. Introduction (why learn Python, what can you do with it, etc.) 
+    1. What can you do with Python?
+    2. Learning a programming language leads to learning more programming
+        languages
+    3. It's a beginner friendly language, but it's still powerful
 2. Python basics, declaring variables, variable types, etc.
     1. Declaring a variables
     2. Operations
