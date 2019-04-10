@@ -13,7 +13,7 @@ further elaboration. At the time I remember finding Dedekind cuts to be a
 rather difficult concept to grasp, and the use of Cauchy sequences sounded
 like a more natural approach to this problem.
 
-Thus, this goal of this series to provide a construction of $ \mathbb{Q} $$
+Thus, this goal of this series to provide a construction of $ \mathbb{Q} $
 using the theory of metric spaces, and this post will outline the completion
 the rational numbers to create the real numbers. Here is a outline of the
 series:
@@ -23,5 +23,4 @@ series:
 that this is indeed a field)
 3. A proof of the completeness of $ \mathbb{R} $
 
-[github]: https://github.com/StevenMaio
 [dedekind-cut]: https://en.wikipedia.org/wiki/Dedekind_cut
