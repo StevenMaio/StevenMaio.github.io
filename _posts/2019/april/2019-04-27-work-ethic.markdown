@@ -1,9 +1,9 @@
 ---
 layout: post
-mathjax: true
+mathjax: false
 title:  "Commiting"
 date:   2019-04-27 21:01:34
-categories blog personal
+categories: blog personal
 ---
 
 I think I'm going to work on focusing my time. To do this, I'm going to create
