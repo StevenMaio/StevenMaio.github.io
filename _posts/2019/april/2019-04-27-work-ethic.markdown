@@ -3,11 +3,6 @@ layout: post
 mathjax: true
 title:  "Commiting"
 date:   2019-04-27 21:01:34
-categories: blog personal
----
-
-I'm gonna put more effort into my writing. So, I'm going to try to write up
-something at least twice a week in May.
 
 I think I'm going to work on focusing my time. To do this, I'm going to create
 a rough schedule for the month and from there, I'm going to create  schedule
