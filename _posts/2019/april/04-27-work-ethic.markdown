@@ -2,7 +2,7 @@
 layout: post
 mathjax: true
 title:  "Commiting"
-date:   2019-04-27 21:01:34 -0400
+date:   2019-04-27 21:01:34
 categories: blog personal
 ---
 
