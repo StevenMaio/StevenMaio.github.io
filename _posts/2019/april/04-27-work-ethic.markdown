@@ -19,8 +19,9 @@ Here are a few concrete tasks I want to accomplish in May:
 3. Read/Start the Illiad
 4. Make progress in the Functional Analysis textbook
 5. Work on the whiteboard drawing program
-6. Think of a new programming project & work on it
 7. Something else?
 8. Attend the local Software-Meetup
+9. Learn C++ (I might be forced to do this because of work)
+10. Mess around with a compression tool for images
 
 Looking forward to making progress in May.
