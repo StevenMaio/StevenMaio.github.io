@@ -11,14 +11,15 @@ a rough schedule for the month and from there, I'm going to create  schedule
 for every week.
 
 Here are a few concrete tasks I want to accomplish in May:
-1. Finish reading *How to Read a Book*
-2. Finish reading *Der Zug war pünktlich*
+1. ~~Finish reading *How to Read a Book*~~
+2. ~~Finish reading *Der Zug war pünktlich*~~
 3. Read/Start the Illiad
-4. Make progress in the Functional Analysis textbook
-5. Work on the whiteboard drawing program
+4. ~~Make progress in the Functional Analysis textbook~~
+5. ~~Work on the whiteboard drawing program~~
 7. Something else?
-8. Attend the local Software-Meetup
-9. Learn C++ (I might be forced to do this because of work)
-10. Mess around with a compression tool for images
+8. Attend the local Software-Meetup [didn't do this... ]
+9. ~~Learn C++ (I might be forced to do this because of work)~~
+10. Mess around with a compression tool for images [this has been put on
+    hold]
 
 Looking forward to making progress in May.
