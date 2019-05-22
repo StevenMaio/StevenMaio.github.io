@@ -17,9 +17,9 @@ Here are a few concrete tasks I want to accomplish in May:
 4. ~~Make progress in the Functional Analysis textbook~~
 5. ~~Work on the whiteboard drawing program~~
 7. Something else?
-8. Attend the local Software-Meetup [didn't do this... ]
+8. Attend the local Software-Meetup **[didn't do this... ]**
 9. ~~Learn C++ (I might be forced to do this because of work)~~
-10. Mess around with a compression tool for images [this has been put on
-    hold]
+10. Mess around with a compression tool for images **[this has been put on
+    hold]**
 
 Looking forward to making progress in May.
