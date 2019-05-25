@@ -1,7 +1,7 @@
 ---
 layout: post
 mathjax: true
-title:  "Constructing R from Q"
+title:  "Constructing R from Q [DRAFT]"
 date:   2019-03-31 21:01:34
 categories: blog math
 ---
@@ -22,5 +22,7 @@ series:
 2. A construction of $ \mathbb{R} $ using Cauchy sequences (as well as a proof
 that this is indeed a field)
 3. A proof of the completeness of $ \mathbb{R} $
+
+**NOTICE**: This post is longer on my website
 
 [dedekind-cut]: https://en.wikipedia.org/wiki/Dedekind_cut
