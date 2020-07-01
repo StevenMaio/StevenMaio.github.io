@@ -4,10 +4,11 @@ title: About Me
 permalink: /about/
 ---
 
-I'm an undergraduate student at Stony Brook University in my last year. I'm
-double majoring in Mathematics and Comptuer Science.
+I recently completed undergrad at Stony Brook University with a double major
+in Mathematics and Computer Science. Currently, I've gotten involved with
+some projects at SUNY ESF in Syracuse, NY.
 
-My interests include Mathematics, Computers, Video Games, Homebrewing, Music,
+My interests include Mathematics, Computers, Go, Video Games, Homebrewing, Music,
 German, and Lëtzebuergesch. I also enjoy running, and hiking!
 
 A link to my GitHub page can be found on the bottom if you're interested in
