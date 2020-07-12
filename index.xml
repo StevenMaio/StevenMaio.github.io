@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Miao</title>
+    <link>/</link>
+    <description>Recent content on Miao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sat, 11 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I recently completed undergrad at Stony Brook University with a double major in Mathematics and Computer Science. Currently, I&#39;ve gotten involved with some projects at SUNY ESF in Syracuse, NY.
+My interests include Mathematics, Computers, Go, Video Games, Homebrewing, Music, German, and Lëtzebuergesch. I also enjoy running, and hiking!
+A link to my GitHub page can be found on the bottom if you&#39;re interested in looking at my projects.</description>
+      
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>/post/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
