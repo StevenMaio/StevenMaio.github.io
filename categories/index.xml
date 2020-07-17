@@ -6,9 +6,20 @@
     <description>Recent content in Categories on Miao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 17 Jul 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>math</title>
+      <link>/categories/math/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/math/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>

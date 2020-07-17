@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Miao</title>
+    <title>Miao</title>
     <link>/post/</link>
-    <description>Recent content in Posts on Miao</description>
+    <description>Recent content on Miao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>First Post</title>
-      <link>/post/test/</link>
-      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      <title>A Geometry Question</title>
+      <link>/post/geo_question1/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/test/</guid>
-      <description>Test post
-$$ f: [0,1] \to [0,1]. $$</description>
+      <guid>/post/geo_question1/</guid>
+      <description>In my work with a professor I&#39;ve come across this problem and I can&#39;t solve it.
+Problem: Suppose that $\gamma : I \to \mathbb{R}^2$ ($I$ is some interval) is a simple convex closed planar cuve, whose curvature is bounded above and below by positive constants, that is $$ 0 &amp;lt; A \le k(s) \le B &amp;lt; \infty $$ for $s \in I$, and let $D$ be the open region bounded by $\gamma$.</description>
       
     </item>
     

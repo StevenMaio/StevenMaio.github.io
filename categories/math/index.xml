@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>math on Miao</title>
+    <link>/categories/math/</link>
+    <description>Recent content in math on Miao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/categories/math/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Geometry Question</title>
+      <link>/post/geo_question1/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/geo_question1/</guid>
+      <description>In my work with a professor I&#39;ve come across this problem and I can&#39;t solve it.
+Problem: Suppose that $\gamma : I \to \mathbb{R}^2$ ($I$ is some interval) is a simple convex closed planar cuve, whose curvature is bounded above and below by positive constants, that is $$ 0 &amp;lt; A \le k(s) \le B &amp;lt; \infty $$ for $s \in I$, and let $D$ be the open region bounded by $\gamma$.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
