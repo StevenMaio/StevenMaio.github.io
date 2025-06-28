@@ -2,25 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steven Maio</title>
-    <link>http://localhost:1313/</link>
+    <link>https://stevenmaio.github.io/</link>
     <description>Recent content on Steven Maio</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 25 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://stevenmaio.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://stevenmaio.github.io/about/</link>
       <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://stevenmaio.github.io/about/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m an applied Mathematics PhD student at North Carolina State University in&#xA;Raleigh, NC under Alen Alexanderian. My interests include Inverse Problems,&#xA;Optimization and High Performance Computing.&lt;/p&gt;&#xA;&lt;p&gt;I competed my Bachelors in Mathematics and Computer Science at Stony Brook University. Afterwards I earned a master&amp;rsquo;s degree in Mathematics at the Technical University of Munich where my master&amp;rsquo;s thesis was advised by Stefan Weltge.&lt;/p&gt;&#xA;&lt;p&gt;In my free time I tinker with software and electronics, play guitar, run, play Go and cook.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Geometry Question</title>
-      <link>http://localhost:1313/posts/geo_question1/</link>
-      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/geo_question1/</guid>
-      <description>&lt;p&gt;&lt;del&gt;In my work with a professor I&#39;ve come across this problem and I can&#39;t solve it.&#xA;Problem is worded after the edit.&lt;/del&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;del&gt;&lt;strong&gt;Problem&lt;/strong&gt;: Suppose that $\gamma : I \to \mathbb{R}^2$ ($I$ is some interval) is a simple&#xA;convex closed planar cuve, whose curvature is bounded above and below by&#xA;positive constants, that is&#xA;$$&#xA;0 &amp;lt; A \le k(s) \le B &amp;lt; \infty&#xA;$$&#xA;for $s \in I$, and let $D$ be the open region bounded by $\gamma$.&#xA;Then there exists $c &amp;gt; 0$ such that for any $x \in D$ and&#xA;$r &amp;lt; \text{diam } \gamma$ we have that&#xA;$$&#xA;m_2 ( B(x;r) \cap D) \ge c r^2,&#xA;$$&#xA;where $m_2$ is 2-d Lebesgue measure and&#xA;$B(x;r) = \{ y \in \mathbb{R}^2 \ : \ | x - y | &amp;lt; r \}$.&lt;/del&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
