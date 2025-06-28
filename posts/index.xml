@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Steven Maio</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Steven Maio</description>
+    <title>Posts on Steven Maio</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Steven Maio</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m an applied Mathematics PhD student at North Carolina State University in&#xA;Raleigh, NC under Alen Alexanderian. My interests include Inverse Problems,&#xA;Optimization and High Performance Computing.&lt;/p&gt;&#xA;&lt;p&gt;I competed my Bachelors in Mathematics and Computer Science at Stony Brook University. Afterwards I earned a master&amp;rsquo;s degree in Mathematics at the Technical University of Munich where my master&amp;rsquo;s thesis was advised by Stefan Weltge.&lt;/p&gt;&#xA;&lt;p&gt;In my free time I tinker with software and electronics, play guitar, run, play Go and cook.&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Fri, 17 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Geometry Question</title>
       <link>http://localhost:1313/posts/geo_question1/</link>
